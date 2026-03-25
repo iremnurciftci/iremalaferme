@@ -1,11 +1,19 @@
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 
-title: iroçki
+title: irem
+name: irem
 description: small thoughts, in progress
 
-author: iroçki
+# Enable features
+plugins:
+  - jekyll-include-cache
 
-minima:
-  skin: dark   # try "dark", "auto", or "classic"
+# Author (for sidebar later)
+author:
+  name: irem
 
-show_excerpts: true
+# Basic layout
+minimal_mistakes_skin: "dark"  # try "air", "dark", "neon", etc.
+
+# Show excerpts on homepage
+excerpt_separator: "<!--more-->"
