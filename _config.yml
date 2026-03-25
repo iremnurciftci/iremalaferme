@@ -1,3 +1,8 @@
 theme: minima
 title: İrem's Blog
 description: Thoughts, notes, and small moments
+
+author: İrem
+
+minima:
+  skin: auto   # or "dark" or "classic"
