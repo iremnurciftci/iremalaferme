@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Starting Somewhere"
 date: 2026-03-25
 ---
