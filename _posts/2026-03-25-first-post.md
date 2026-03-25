@@ -2,6 +2,12 @@
 layout: single
 title: "Starting Somewhere"
 date: 2026-03-25
+author_profile: true
+classes: wide
+header:
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0.4
+  caption: "somewhere, recently"
 ---
 
 Dear gentel reader,
