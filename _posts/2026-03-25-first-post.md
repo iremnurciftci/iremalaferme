@@ -5,7 +5,7 @@ date: 2026-03-25
 author_profile: true
 classes: wide
 header:
-  overlay_image: assets/css/100_2325.JPG
+  overlay_image: /assets/css/100_2325.JPG
   overlay_filter: 0.4
   caption: "somewhere, recently"
 ---
