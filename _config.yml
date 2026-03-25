@@ -17,3 +17,8 @@ minimal_mistakes_skin: "dark"  # try "air", "dark", "neon", etc.
 
 # Show excerpts on homepage
 excerpt_separator: "<!--more-->"
+
+author:
+  name: irem
+  bio: "writing things as I figure them out"
+  location: "Berlin / wherever I am"
