@@ -1,8 +1,11 @@
 theme: minima
-title: İroçki's Blog
-description: Thoughts, notes, and small moments
 
-author: İro
+title: iroçki
+description: small thoughts, in progress
+
+author: iroçki
 
 minima:
-  skin: auto   # or "dark" or "classic"
+  skin: dark   # try "dark", "auto", or "classic"
+
+show_excerpts: true
